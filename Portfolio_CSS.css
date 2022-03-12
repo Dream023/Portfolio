@@ -1,0 +1,160 @@
+body
+{
+    background-color: whitesmoke;
+}
+h1{
+    border-radius: 10pt;
+    text-align: center;
+    font-size: 64pt;
+}
+h2{
+    border-radius: 10pt;
+    text-align: center;
+    font-size: 36pt;
+}
+h3{
+    padding-left: 10pt;
+    padding-bottom: 2pt;
+    border-radius: 10pt;
+    font-size: 24pt;
+}
+#Head1
+{
+    width: 500pt;
+    color: white;
+    background-color: black;
+    border-radius: 40pt;
+    padding-bottom: 10pt;
+}
+#White_Text
+{
+    color: white;
+}
+#Black_Text
+{
+    color: black;
+}
+#ProfileIMG
+{
+    width: 90%;
+    height: auto;
+    padding: 10pt;
+    text-align: center;
+    border: 5pt solid white;
+    border-radius: 20pt;
+}
+#ProjectIMG
+{
+    width: 90%;
+    height: auto;
+    padding: 10pt;
+    text-align: center;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+    border-radius: 20pt;
+}
+li
+{
+    font-size: 18pt;
+}
+video
+{
+    width: 90%;
+    height: auto;
+    text-align: center;
+}
+#Grid_Container
+{
+    display: grid;
+    grid-template-columns: 45% 55%;
+}
+#Block1_Center
+{
+    background-color: black;
+    text-align: center;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-top: 10pt;
+    margin-left: 10pt;
+}
+#Block1
+{
+    background-color: black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-top: 10pt;
+    margin-left: 10pt;
+}
+#Block2
+{
+    border: solid 5pt black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-top: 10pt;
+    margin-right: 10pt;
+}
+#Block3
+{
+    border: solid 5pt black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-left: 10pt;
+}
+#Block4
+{
+    background-color: black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-right: 10pt;
+}
+#Block5
+{
+    background-color: black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-left: 10pt;
+}
+#Block6
+{
+    border: solid 5pt black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-right: 10pt;
+}
+#Block7
+{
+    border: solid 5pt black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-bottom: 10pt;
+    margin-left: 10pt;
+}
+#Block8
+{
+    background-color: black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    margin-bottom: 10pt;
+    margin-right: 10pt;
+}
+#Block_Flex_Center
+{
+    display: flex;
+    justify-content: center;
+}
+#Back
+{
+    background-color: black;
+    border-radius: 40pt;
+    width: 250pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+#Back > h2 > a
+{
+    color: white;
+}
+#Back > h1
+{
+    color: white;
+}

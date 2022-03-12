@@ -1,0 +1,37 @@
+body
+{
+    background-color:wheat;
+}
+#myLogin
+{
+    text-align: center;
+    background-color: whitesmoke;
+    padding-bottom: 5pt;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    border-radius: 10pt;
+    width: 400pt;
+}
+#myForm
+{
+    background-color: whitesmoke;
+    padding-bottom: 5pt;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    border-radius: 10pt;
+    width: 420pt;
+}
+#form_div
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 30pt;
+}
+#errormsg
+{
+    color: red;
+}
